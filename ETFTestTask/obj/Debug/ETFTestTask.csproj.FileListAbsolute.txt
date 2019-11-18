@@ -1,0 +1,10 @@
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\bin\Debug\ETFTestTask.exe.config
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\bin\Debug\ETFTestTask.exe
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\bin\Debug\ETFTestTask.pdb
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\obj\Debug\ETFTestTask.csprojAssemblyReference.cache
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\obj\Debug\ETFTestTask.Form1.resources
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\obj\Debug\ETFTestTask.Properties.Resources.resources
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\obj\Debug\ETFTestTask.csproj.GenerateResource.cache
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\obj\Debug\ETFTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\obj\Debug\ETFTestTask.exe
+C:\Users\Dolgikh Family\source\repos\ETFTestTask\ETFTestTask\obj\Debug\ETFTestTask.pdb
